@@ -1,4 +1,4 @@
-var domainName = "is-a.dev";
+var domainName = "kenya.bom";
 var registrar = NewRegistrar("none");
 var dnsProvider = DnsProvider(NewDnsProvider("cloudflare"));
 
